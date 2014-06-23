@@ -5,42 +5,19 @@ tagline: to tangnan's blog
 ---
 {% include JB/setup %}
 
-Read [Jekyll Quick Start](http://jekyllbootstrap.com/usage/jekyll-quick-start.html)
+欢迎来到我的博客！我的博客刚刚搭建完毕，需要庆祝一下！
+<br/>
 
-Complete usage and documentation available at: [Jekyll Bootstrap](http://jekyllbootstrap.com)
+北国风光，千里冰封，万里雪飘。<br/>
+望长城内外，惟馀莽莽；<br/>
+大河上下，顿失滔滔。<br/>
+山舞银蛇，原驰蜡象，欲与天公试比高。<br/>
+须晴日，看红妆素裹，分外妖娆。<br/>
 
-## Update Author Attributes
-
-In `_config.yml` remember to specify your own data:
-    
-    title : My Blog =)
-    
-    author :
-      name : Name Lastname
-      email : blah@email.test
-      github : username
-      twitter : username
-
-The theme should reference these variables whenever needed.
-    
-## Sample Posts
-
-This blog contains sample posts which help stage pages and blog data.
-When you don't need the samples anymore just delete the `_posts/core-samples` folder.
-
-    $ rm -rf _posts/core-samples
-
-Here's a sample "posts list".
-
-<ul class="posts">
-  {% for post in site.posts %}
-    <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></li>
-  {% endfor %}
-</ul>
-
-## To-Do
-
-This theme is still unfinished. If you'd like to be added as a contributor, [please fork](http://github.com/plusjade/jekyll-bootstrap)!
-We need to clean up the themes, make theme usage guides with theme-specific markup examples.
-
+江山如此多娇，<br/>
+引无数英雄竞折腰。<br/>
+惜秦皇汉武，略输文采；<br/>
+唐宗宋祖，稍逊风骚。<br/>
+一代天骄，成吉思汗，只识弯弓射大雕。<br/>
+俱往矣，数风流人物，还看今朝。<br/>
 
